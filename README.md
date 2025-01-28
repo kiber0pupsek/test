@@ -158,6 +158,8 @@ POST /staking/unstake
 ```
 
 
+
+
 ## Error Handling
 All errors return a JSON response with the following structure:
 ```json
@@ -182,4 +184,6 @@ For any questions or issues, contact us at:
 
 
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
